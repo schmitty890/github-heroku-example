@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/schmitty890/github-heroku-example/issues"
   },
-  "homepage": "https://github.com/schmitty890/github-heroku-example#readme"
+  "homepage": "https://github.com/schmitty890/github-heroku-example#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0"
+  }
 }
